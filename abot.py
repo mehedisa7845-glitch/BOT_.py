@@ -2,7 +2,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes, CallbackQueryHandler
 
 # আপনার BotFather থেকে পাওয়া API Token এখানে দিন
-TOKEN = "8821456279:AAGzgCwHbaPCWAkrTxhJBvNIbzFJgYRixHc"  # উদাহরণ: "123456789:ABCdefGhIjKlMnOpQrStUvWxYz"
+TOKEN = "8707135758:AAHaJn_jG5Uv0VZ4v9xDhLzKTX-NnE4bmQs"  # উদাহরণ: "123456789:ABCdefGhIjKlMnOpQrStUvWxYz"
 
 # বিভিন্ন সোশ্যাল মিডিয়া এবং হ্যাকিং স্টাইল লিংকের ডাটাবেস
 LINKS_DB = {
